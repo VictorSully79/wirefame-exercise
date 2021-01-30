@@ -1,1 +1,75 @@
 
+#logo {
+  margin-left: 25pxS;
+}
+
+body {
+  height: 100vh;
+  width: 1024px;
+  align-self: center;
+  margin: auto;
+}
+
+header{
+  height: 120px;
+  background-color: lightblue;
+  margin-left: 25px;
+}
+
+nav ul {
+  align-items: center;
+
+}
+
+
+nav {
+  position: relative;
+  font-size: 24pt;
+ 
+}
+
+nav li {
+  display: inline;
+  margin: auto;
+  height: fit-content;
+  padding: 0px, 30px, 30px 100px;
+  vertical-align: middle;
+
+}
+
+#hero {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+
+
+article img {
+  margin: 15px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+
+section {
+  display: inline;
+}
+
+
+section div {
+  display: inline;
+  position: relative;
+  height: fit-content;
+  
+}
+
+#banner {
+  float: left;
+}
+
+
+
+
+  
